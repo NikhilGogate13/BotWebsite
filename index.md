@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to HybridBot Site
 
-You can use the [editor on GitHub](https://github.com/NikhilGogate13/BotWebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can download it from this [link](https://github.com/FundamentalEq/Seq2seqchatBot). It is an hybrid of two types of bot, First one is IRIS ChatBot and Second one is Seq2Seq chatbot.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
