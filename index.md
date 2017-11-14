@@ -2,36 +2,23 @@
 
 You can download it from this [link](https://github.com/FundamentalEq/Seq2seqchatBot). It is an hybrid of two types of bot, First one is IRIS ChatBot and Second one is Seq2Seq chatbot.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Follow following steps to use it:
+Setting up IRIS ChatBot 
+download [Cornell Dataset](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) and rename it to cornell_movie-dialogs_corpus than just run
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+  bash prepare.sh
+```
+Setting up Seq2Seq ChatBot
+Download dependencies which are just Python 2.7 and Pytorch 0.12 than run two command one after another
+```markdown
+  python preprocess.py
+  python train.py
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NikhilGogate13/BotWebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To Run final bot
+```markdown
+  python finalBot.py
+```
