@@ -3,9 +3,9 @@
 You can download it from this [link](https://github.com/FundamentalEq/Seq2seqchatBot). It is an hybrid of two types of bot, First one is IRIS ChatBot and Second one is Seq2Seq chatbot.
 
 
-### Markdown
+### How to use after downloading Repository
 
-Follow following steps to use it:  
+Follow following steps to use it:    
 Setting up IRIS ChatBot  
 Download [Cornell Dataset](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) and rename it to cornell_movie-dialogs_corpus than just run
 ```markdown
