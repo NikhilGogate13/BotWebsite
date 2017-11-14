@@ -5,7 +5,8 @@ You can download it from this [link](https://github.com/FundamentalEq/Seq2seqcha
 
 ### Markdown
 
-Follow following steps to use it:Setting up IRIS ChatBot  
+Follow following steps to use it:  
+Setting up IRIS ChatBot  
 Download [Cornell Dataset](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) and rename it to cornell_movie-dialogs_corpus than just run
 ```markdown
   bash prepare.sh
